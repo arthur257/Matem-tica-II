@@ -1,7 +1,11 @@
 body{ background-color: black;
 
 }
-.CAPA-DO-CALAMITY {
-   width: 150%;
-   padding: left 20px;
+#CAPA-DO-CALAMITY {
+   width: 50%;
+   text-align: center;
+}
+
+#video {
+   text-align: end;
 }
